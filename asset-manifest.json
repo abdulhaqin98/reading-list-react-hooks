@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reading-list-react-hooks/static/css/main.43452be2.chunk.css",
+    "main.js": "/reading-list-react-hooks/static/js/main.4628da5a.chunk.js",
+    "main.js.map": "/reading-list-react-hooks/static/js/main.4628da5a.chunk.js.map",
+    "runtime-main.js": "/reading-list-react-hooks/static/js/runtime-main.699bf078.js",
+    "runtime-main.js.map": "/reading-list-react-hooks/static/js/runtime-main.699bf078.js.map",
+    "static/js/2.097133ab.chunk.js": "/reading-list-react-hooks/static/js/2.097133ab.chunk.js",
+    "static/js/2.097133ab.chunk.js.map": "/reading-list-react-hooks/static/js/2.097133ab.chunk.js.map",
+    "index.html": "/reading-list-react-hooks/index.html",
+    "precache-manifest.edaaadacac3f0ae1f15931adeb4f7e38.js": "/reading-list-react-hooks/precache-manifest.edaaadacac3f0ae1f15931adeb4f7e38.js",
+    "service-worker.js": "/reading-list-react-hooks/service-worker.js",
+    "static/css/main.43452be2.chunk.css.map": "/reading-list-react-hooks/static/css/main.43452be2.chunk.css.map",
+    "static/js/2.097133ab.chunk.js.LICENSE.txt": "/reading-list-react-hooks/static/js/2.097133ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.699bf078.js",
+    "static/js/2.097133ab.chunk.js",
+    "static/css/main.43452be2.chunk.css",
+    "static/js/main.4628da5a.chunk.js"
+  ]
+}
